@@ -1,6 +1,3 @@
 [submodule "plasma-activities-skill"]
 	path = plasma-activities-skill
 	url = https://github.com/AIIX/plasma-activities-skill
-[submodule "plasma-sendSMS-skill"]
-	path = plasma-activities-skill
-	url = https://github.com/AIIX/plasma-sendSMS-skill
